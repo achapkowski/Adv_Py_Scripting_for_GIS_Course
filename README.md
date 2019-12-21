@@ -5,7 +5,7 @@
     *Advanced Academic Programs*
     *Zanvyl Krieger School of Arts and Sciences*
     *Johns Hopkins University*
-    *AS.430.606 Programming in GIS*
+    *430.618.81 - Advanced Python Scripting for GIS*
     
     Instructor Information
     Instructor: Andrew Chapkowski
