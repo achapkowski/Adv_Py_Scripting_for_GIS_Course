@@ -1,0 +1,25 @@
+name: arcgis-environment
+channels:
+  - esri
+  - conda-forge
+  - fastai
+  - pytorch
+
+dependencies:
+  - python=3.6
+  - fiona
+  - scikit-learn
+  - numpy
+  - pandas >=0.23
+  - pip
+  - matplotlib
+  - seaborn
+  - arcgis
+  - scipy
+  - pillow
+  - numpy
+
+  - pip:
+    - nbgitpuller
+    - sphinx-gallery
+    - matplotlib
