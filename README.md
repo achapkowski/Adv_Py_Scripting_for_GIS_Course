@@ -72,32 +72,34 @@ discussion forums, additional postings and participation are highly advised.
 -------------
 ### Course Schedule
 
-| Week    | Date | Topics |
+| Week    | Start Date | Topics |
 |---------|------|--------|
-| Week 1  | TBD | Introduction to Python | 
-| Week 2  | TBD | Introduction to Python |
-| Week 3  | TBD | Introduction to ArcPy 1 of 4 |
-| Week 4  | TBD  | Introduction to ArcPy 2 of 4 |
-| Week 5  | TBD | Introduction to ArcPy 3 of 4 |
-| Week 6  | TBD | Introduction to ArcPy 4 of 4 | 
-| Week 7  | TBD | **Spring Break No Class** |
-| Week 8  | TBD | **Project 1 Due** |
-| Week 9  | TBD | Introduction to Numpy and Pandas |
-| Week 10  | TBD | Python API for ArcGIS 1 of 3 |
-| Week 11 | TBD | Python API for ArcGIS 2 of 3 |
-| Week 12 | TBD | Python API for ArcGIS 3 of 3 |
-| Week 13 | TBD  | Advanced Topics in GIS |
-| Week 14 | TBD | **Final Project Due**  |
+| Week 1  | 1/21/2020 | Introduction to Python | 
+| Week 2  | 1/27/2020 | Introduction to Python |
+| Week 3  | 2/3/2020 | OOP Overview & Python Toolboxes|
+| Week 4  | 2/10/2020  | ArcPy Lesson |
+| Week 5  | 2/17/2020 | ArcPy Lesson  |
+| Week 6  | 2/24/2020 | ArcPy Lesson | 
+| Week 7  | 3/2/2020 | **Project 1 Due** |
+| Week 8  | 3/9/2020 | Introduction to Numpy and Pandas |
+| Week 9  | 3/16/2020 | **Spring Break No Class** |
+| Week 10  | 3/23/2020 | Data Visualization |
+| Week 11 | 3/30/2020 | Python API for ArcGIS 1 of 3 |
+| Week 12 | 4/6/2020 | Python API for ArcGIS 2 of 3 |
+| Week 13 | 4/13/2020  | Python API for ArcGIS 3 of 3  |
+| Week 14 | 4/20/2020  | Advanced Topics in GIS |
+| Week 15 | 4/27/2020 | **Final Project Released**  |
+| Week 16 | 5/4/2020 | **Final Project Due**  |
 
 ### Assignment Due Dates
 
 | Assignment    | Date | 
 |---------|------|
-| Lab 1  | TBD |
-| Lab 2  | TBD |
-| Lab 3  | TBD |
-| Midterm^  | TBD |
-| Final^  | TBD |
+| Lab 1  | 2/9/2020 |
+| Lab 2  | 2/23/2020 |
+| Midterm^  | 3/8/2020 |
+| Lab 3  | 4/4/2020 |
+| Final^  | 5/10/2020 |
 
 
 
