@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 discussion/Discussion Topic 06 - What is going on here - ANSWER.ipynb
+*.lock

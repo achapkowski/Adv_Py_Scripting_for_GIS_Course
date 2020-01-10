@@ -20,7 +20,11 @@
 
 This course focuses on advanced uses of Python as a scripting tool to automate workflows in GIS and create customized applications. This includes the development of script tools, utilizing advanced ArcPy modules, working with third-party modules, customizing GIS applications, and more advanced Python functionality. Offered once a year. Prerequisites: 430.606 Programming in GIS.
 
+----------------------
+## Course Goal
 
+
+The goal is that each week there will be a geospatial concept along with a fundamental programming concept so students learn both foundational and geospatial programming skills.
 
 ---------------------
 ## Course Objectives
@@ -31,7 +35,7 @@ This course focuses on advanced uses of Python as a scripting tool to automate w
 ----------------
 ## Textbooks:
 
-	- (Required) Kushal Das. [Python for you and me](https://pymbook.readthedocs.io/en/latest/)  **THIS IS FREE**
+- (Required) Kushal Das. [Python for you and me](https://pymbook.readthedocs.io/en/latest/)  **THIS IS FREE**
 
 
 
@@ -70,7 +74,7 @@ provide hands-on experience with programming in GIS
 discussion forums, additional postings and participation are highly advised.
 
 -------------
-### Course Schedule
+### Tentative Course Schedule
 
 | Week    | Start Date | Topics |
 |---------|------|--------|
@@ -80,14 +84,14 @@ discussion forums, additional postings and participation are highly advised.
 | Week 4  | 2/10/2020  | ArcPy Lesson |
 | Week 5  | 2/17/2020 | ArcPy Lesson  |
 | Week 6  | 2/24/2020 | ArcPy Lesson | 
-| Week 7  | 3/2/2020 | **Project 1 Due** |
-| Week 8  | 3/9/2020 | Introduction to Numpy and Pandas |
+| Week 7  | 3/2/2020 | Arcpy Lesson (Raster data) |
+| Week 8  | 3/9/2020 | **Project 1 Due**  |
 | Week 9  | 3/16/2020 | **Spring Break No Class** |
-| Week 10  | 3/23/2020 | Data Visualization |
-| Week 11 | 3/30/2020 | Python API for ArcGIS 1 of 3 |
-| Week 12 | 4/6/2020 | Python API for ArcGIS 2 of 3 |
-| Week 13 | 4/13/2020  | Python API for ArcGIS 3 of 3  |
-| Week 14 | 4/20/2020  | Advanced Topics in GIS |
+| Week 10  | 3/23/2020 | Introduction to Data Science |
+| Week 11 | 3/30/2020 | Data Visualization |
+| Week 12 | 4/6/2020 | Python API for ArcGIS 1 of 2 |
+| Week 13 | 4/13/2020  | Python API for ArcGIS 2 of 2  |
+| Week 14 | 4/20/2020  | Select Advanced Topics in GIS |
 | Week 15 | 4/27/2020 | **Final Project Released**  |
 | Week 16 | 5/4/2020 | **Final Project Due**  |
 
